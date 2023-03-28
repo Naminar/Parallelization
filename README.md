@@ -10,5 +10,6 @@ The **run.sh** script used to run this utility 2 times for each number of thread
 
 ## Results 
 **WARNING:** These results were obtained on Ubuntu WSL2
+
 **Processor:** Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz   2.00 GHz
 ![Execution time depending on the number of threads for 2 functions.](graph/Graph1.png)
